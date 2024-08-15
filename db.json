@@ -1,0 +1,52 @@
+{
+  "jobseeker": [
+    {
+      "id": "ac75",
+      "name": "shahroz",
+      "email": "shahroz@gmail.com",
+      "phone": "04231313131",
+      "image": "data:image/jpeg;",
+      "password": "1212"
+    },
+    {
+      "id": "b79a",
+      "name": "Noman",
+      "email": "numankamboh0305@gmail.com",
+      "phone": "03059988491",
+      "image": "data:image/jpeg;",
+      "password": "123321"
+    },
+    {
+      "id": "9acd",
+      "name": "abdullah",
+      "email": "abdullah@gmail.com",
+      "phone": "323232",
+      "image": "data:image/jpeg;",
+      "password": "123"
+    },
+    {
+      "id": "a644",
+      "name": "ahmi",
+      "email": "ahmi@gmail.com",
+      "phone": "234567890",
+      "image": "data:image/jpeg;",
+      "password": "0101"
+    },
+    {
+      "id": "631a",
+      "name": "salman",
+      "email": "salman@gmail.com",
+      "phone": "12345678",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXGB8bGRcYFxodGBsdHRobIR4dGhkaICgiGhslHSAaITEhJykrLi4uGiAzODMsNyguLy0BCgoKDg0OGxAQGzAlICUtLS0tKysvNS0wLS0tLS0vLS0vLS0tNS0rLS8vLSsvLS0wLS0vLTAtLS0tLS0tLS8tLf/AABEIAPoAyQMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAB//EAEsQAAIBAgUCBAMDCQQIBQMFAAECEQMhAAQSMUEiUQUTYXEygZFCUqEGFCOSscHR0vAVU2LxcoKTo8LT4eIkM0OywxZjolRzg4SU/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDBAAF/8QALhEAAgIBAwIDCAMBAQEAAAAAAAECESEDEjFB8FFhgQQTIjKhscHhcZHR8YIU/9oADAMBAAIRAxEAPwDIZKZYk9R9OfeTff6YJqlgAZubADbeJYWn5fxx4Uyr2iN/3Te+37++CNJAk2JLRIk+/sDjypSt2SVpUV0GBJF5NoMSBx8Qntg4URG1x+Ikfx/HFWWpE3PxTzHO+1+2I19JIX8fXt7Ym8ukB1VsHcQ6Tp6jpi/K9p/xYOyeSALFomTHM+vI3i9sKsxW6rHTHPI2/rcYcZR9PVAm3uL7C1u3J2w2pGW1UdFpjSoqNZQOnteZ7nb5em2BM5ldTARCkgCLEARJn+vwxcKwHSLC8SRHf9w+cYtWt92T+4XiJk/5YxpuPBoWcMGqZJdrsQBPINzfeDPp64CGTqQW4Fz6x2gf188OGqGIAJU77fgNrH6fK0XzSnpMRG89xv2BGOUmVpWKEyutgAJF5k3kDmebRAiRtxiNTw0TDkACefQztz87X9cPMl0jQ2ogy2kclTJAmNbaSxgHt7YsIRSthJdQCCPi0WKEhpJldotUn7owXqSTpBSsQt4asamA+CBKqT1CC",
+      "password": "12345"
+    },
+    {
+      "id": "dc49",
+      "name": "ahsan",
+      "email": "ahsan@gmail.com",
+      "phone": "123456789",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXGB8bGRcYFxodGBsdHRobIR4dGhkaICgiGhslHSAaITEhJykrLi4uGiAzODMsNyguLy0BCgoKDg0OGxAQGzAlICUtLS0tKysvNS0wLS0tLS0vLS0vLS0tNS0rLS8vLSsvLS0wLS0vLTAtLS0tLS0tLS8tLf/AABEIAPoAyQMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAB//EAEsQAAIBAgUCBAMDCQQIBQMFAAECEQMhAAQSMUEiUQUTYXEygZFCUqEGFCOSscHR0vAVU2LxcoKTo8LT4eIkM0OywxZjolRzg4SU/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDBAAF/8QALhEAAgIBAwIDCAMBAQEAAAAAAAECESEDEjFB8FFhgQQTIjKhscHhcZHR8YIU/9oADAMBAAIRAxEAPwDIZKZYk9R9OfeTff6YJqlgAZubADbeJYWn5fxx4Uyr2iN/3Te+37++CNJAk2JLRIk+/sDjypSt2SVpUV0GBJF5NoMSBx8Qntg4URG1x+Ikfx/HFWWpE3PxTzHO+1+2I19JIX8fXt7Ym8ukB1VsHcQ6Tp6jpi/K9p/xYOyeSALFomTHM+vI3i9sKsxW6rHTHPI2/rcYcZR9PVAm3uL7C1u3J2w2pGW1UdFpjSoqNZQOnteZ7nb5em2BM5ldTARCkgCLEARJn+vwxcKwHSLC8SRHf9w+cYtWt92T+4XiJk/5YxpuPBoWcMGqZJdrsQBPINzfeDPp64CGTqQW4Fz6x2gf188OGqGIAJU77fgNrH6fK0XzSnpMRG89xv2BGOUmVpWKEyutgAJF5k3kDmebRAiRtxiNTw0TDkACefQztz87X9cPMl0jQ2ogy2kclTJAmNbaSxgHt7YsIRSthJdQCCPi0WKEhpJldotUn7owXqSTpBSsQt4asamA+CBKqT1CC",
+      "password": "1234"
+    }
+  ]
+}
